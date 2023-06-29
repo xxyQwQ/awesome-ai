@@ -1,0 +1,20 @@
+		.ORIG	x3000
+		LD		R1, INPUT
+		AND		R2, R2, #0
+		AND		R3, R3, #0
+		ADD		R3, R3, #1
+		AND		R4, R4, #0
+;
+		ADD		R1, R1, #0
+		BRnz	FINISH
+LOOP	ADD		R4, R2, R3
+		ADD		R2, R3, #0
+		ADD		R3, R4, #0
+		ADD		R1, R1, #-1
+		BRz		FINISH
+		BRnzp	LOOP
+FINISH	ST		R4, OUTPUT
+		HALT
+INPUT	.FILL	x000A
+OUTPUT	.FILL	x0000
+		.END

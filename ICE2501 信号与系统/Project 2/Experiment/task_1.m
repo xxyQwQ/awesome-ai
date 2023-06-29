@@ -1,0 +1,10 @@
+load('lineup.mat');
+input = y;
+last = length(input);
+time = 1 : last;
+output = single_eliminate(input, 1000, 0.5);
+subplot(2, 1, 1);
+plot(time, input);
+subplot(2, 1, 2);
+plot(time, output);
+sound(output);
