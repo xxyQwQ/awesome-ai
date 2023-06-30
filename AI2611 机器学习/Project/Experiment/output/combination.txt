@@ -1,0 +1,11 @@
+kernel: Linear+Polynomial, Train: 100.00%, Test: 93.60%
+kernel: Linear+Gaussian, Train: 99.90%, Test: 91.00%
+kernel: Linear+Sigmoid, Train: 99.86%, Test: 89.70%
+kernel: Polynomial+Gaussian, Train: 100.00%, Test: 93.80%
+kernel: Polynomial+Sigmoid, Train: 100.00%, Test: 93.90%
+kernel: Gaussian+Sigmoid, Train: 99.46%, Test: 94.50%
+kernel: Linear+Polynomial+Gaussian, Train: 100.00%, Test: 93.90%
+kernel: Linear+Polynomial+Sigmoid, Train: 100.00%, Test: 93.80%
+kernel: Linear+Gaussian+Sigmoid, Train: 99.88%, Test: 91.20%
+kernel: Polynomial+Gaussian+Sigmoid, Train: 100.00%, Test: 94.00%
+kernel: Linear+Polynomial+Gaussian+Sigmoid, Train: 100.00%, Test: 93.80%

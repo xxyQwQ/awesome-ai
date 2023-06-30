@@ -1,0 +1,452 @@
+<experiment> 2x2 puzzle
+[progress] epoch: 1
+(train) epoch loss: 54.1140, fragment accuracy: 62.52%, puzzle accuracy: 42.45%
+(test) epoch loss: 9.8045, fragment accuracy: 76.12%, puzzle accuracy: 60.63%
+[progress] epoch: 2
+(train) epoch loss: 46.3392, fragment accuracy: 79.59%, puzzle accuracy: 65.76%
+(test) epoch loss: 9.3894, fragment accuracy: 80.59%, puzzle accuracy: 67.31%
+[progress] epoch: 3
+(train) epoch loss: 45.2098, fragment accuracy: 81.92%, puzzle accuracy: 69.25%
+(test) epoch loss: 9.2596, fragment accuracy: 81.54%, puzzle accuracy: 68.79%
+[progress] epoch: 4
+(train) epoch loss: 44.6427, fragment accuracy: 83.10%, puzzle accuracy: 71.15%
+(test) epoch loss: 9.1715, fragment accuracy: 82.29%, puzzle accuracy: 70.11%
+[progress] epoch: 5
+(train) epoch loss: 44.0792, fragment accuracy: 84.28%, puzzle accuracy: 72.93%
+(test) epoch loss: 9.1213, fragment accuracy: 82.96%, puzzle accuracy: 71.14%
+[progress] epoch: 6
+(train) epoch loss: 43.7444, fragment accuracy: 84.96%, puzzle accuracy: 74.09%
+(test) epoch loss: 9.0743, fragment accuracy: 83.38%, puzzle accuracy: 71.87%
+[progress] epoch: 7
+(train) epoch loss: 43.3660, fragment accuracy: 85.81%, puzzle accuracy: 75.60%
+(test) epoch loss: 9.0497, fragment accuracy: 83.71%, puzzle accuracy: 73.10%
+[progress] epoch: 8
+(train) epoch loss: 43.0377, fragment accuracy: 86.46%, puzzle accuracy: 76.74%
+(test) epoch loss: 9.0164, fragment accuracy: 83.97%, puzzle accuracy: 73.20%
+[progress] epoch: 9
+(train) epoch loss: 42.7632, fragment accuracy: 87.04%, puzzle accuracy: 77.83%
+(test) epoch loss: 8.9744, fragment accuracy: 84.34%, puzzle accuracy: 73.66%
+[progress] epoch: 10
+(train) epoch loss: 42.5778, fragment accuracy: 87.42%, puzzle accuracy: 78.37%
+(test) epoch loss: 8.9156, fragment accuracy: 85.01%, puzzle accuracy: 74.76%
+[progress] epoch: 11
+(train) epoch loss: 42.1368, fragment accuracy: 88.38%, puzzle accuracy: 80.00%
+(test) epoch loss: 8.8595, fragment accuracy: 85.70%, puzzle accuracy: 76.01%
+[progress] epoch: 12
+(train) epoch loss: 41.9015, fragment accuracy: 88.84%, puzzle accuracy: 80.79%
+(test) epoch loss: 8.8021, fragment accuracy: 86.09%, puzzle accuracy: 76.56%
+[progress] epoch: 13
+(train) epoch loss: 41.7661, fragment accuracy: 89.14%, puzzle accuracy: 81.39%
+(test) epoch loss: 8.7539, fragment accuracy: 86.60%, puzzle accuracy: 77.63%
+[progress] epoch: 14
+(train) epoch loss: 41.5019, fragment accuracy: 89.72%, puzzle accuracy: 82.31%
+(test) epoch loss: 8.7730, fragment accuracy: 86.47%, puzzle accuracy: 77.44%
+[progress] epoch: 15
+(train) epoch loss: 41.2785, fragment accuracy: 90.16%, puzzle accuracy: 83.09%
+(test) epoch loss: 8.7758, fragment accuracy: 86.40%, puzzle accuracy: 77.23%
+[progress] epoch: 16
+(train) epoch loss: 41.1335, fragment accuracy: 90.47%, puzzle accuracy: 83.52%
+(test) epoch loss: 8.6699, fragment accuracy: 87.54%, puzzle accuracy: 79.16%
+[progress] epoch: 17
+(train) epoch loss: 40.9568, fragment accuracy: 90.83%, puzzle accuracy: 84.24%
+(test) epoch loss: 8.6848, fragment accuracy: 87.26%, puzzle accuracy: 78.79%
+[progress] epoch: 18
+(train) epoch loss: 40.7891, fragment accuracy: 91.16%, puzzle accuracy: 84.81%
+(test) epoch loss: 8.6813, fragment accuracy: 87.37%, puzzle accuracy: 78.77%
+[progress] epoch: 19
+(train) epoch loss: 40.5915, fragment accuracy: 91.56%, puzzle accuracy: 85.46%
+(test) epoch loss: 8.6784, fragment accuracy: 87.42%, puzzle accuracy: 79.22%
+[progress] epoch: 20
+(train) epoch loss: 40.4787, fragment accuracy: 91.82%, puzzle accuracy: 85.87%
+(test) epoch loss: 8.6638, fragment accuracy: 87.59%, puzzle accuracy: 79.40%
+[progress] epoch: 21
+(train) epoch loss: 40.3437, fragment accuracy: 92.05%, puzzle accuracy: 86.26%
+(test) epoch loss: 8.6299, fragment accuracy: 87.92%, puzzle accuracy: 79.85%
+[progress] epoch: 22
+(train) epoch loss: 40.1424, fragment accuracy: 92.53%, puzzle accuracy: 87.07%
+(test) epoch loss: 8.5674, fragment accuracy: 88.50%, puzzle accuracy: 81.03%
+[progress] epoch: 23
+(train) epoch loss: 39.8948, fragment accuracy: 93.08%, puzzle accuracy: 88.00%
+(test) epoch loss: 8.5512, fragment accuracy: 88.73%, puzzle accuracy: 81.19%
+[progress] epoch: 24
+(train) epoch loss: 39.8043, fragment accuracy: 93.25%, puzzle accuracy: 88.24%
+(test) epoch loss: 8.6043, fragment accuracy: 88.17%, puzzle accuracy: 80.22%
+[progress] epoch: 25
+(train) epoch loss: 39.7003, fragment accuracy: 93.48%, puzzle accuracy: 88.69%
+(test) epoch loss: 8.5774, fragment accuracy: 88.45%, puzzle accuracy: 80.84%
+[progress] epoch: 26
+(train) epoch loss: 39.6040, fragment accuracy: 93.66%, puzzle accuracy: 88.92%
+(test) epoch loss: 8.5216, fragment accuracy: 88.89%, puzzle accuracy: 81.49%
+[progress] epoch: 27
+(train) epoch loss: 39.4546, fragment accuracy: 93.98%, puzzle accuracy: 89.42%
+(test) epoch loss: 8.5132, fragment accuracy: 89.05%, puzzle accuracy: 81.72%
+[progress] epoch: 28
+(train) epoch loss: 39.3324, fragment accuracy: 94.26%, puzzle accuracy: 89.89%
+(test) epoch loss: 8.5032, fragment accuracy: 89.18%, puzzle accuracy: 81.95%
+[progress] epoch: 29
+(train) epoch loss: 39.2251, fragment accuracy: 94.44%, puzzle accuracy: 90.22%
+(test) epoch loss: 8.5130, fragment accuracy: 89.08%, puzzle accuracy: 81.87%
+[progress] epoch: 30
+(train) epoch loss: 39.1143, fragment accuracy: 94.67%, puzzle accuracy: 90.64%
+(test) epoch loss: 8.4748, fragment accuracy: 89.51%, puzzle accuracy: 82.21%
+[progress] epoch: 31
+(train) epoch loss: 38.9454, fragment accuracy: 95.06%, puzzle accuracy: 91.30%
+(test) epoch loss: 8.4495, fragment accuracy: 89.73%, puzzle accuracy: 82.94%
+[progress] epoch: 32
+(train) epoch loss: 38.9272, fragment accuracy: 95.10%, puzzle accuracy: 91.36%
+(test) epoch loss: 8.4650, fragment accuracy: 89.57%, puzzle accuracy: 82.48%
+[progress] epoch: 33
+(train) epoch loss: 38.8081, fragment accuracy: 95.32%, puzzle accuracy: 91.68%
+(test) epoch loss: 8.4600, fragment accuracy: 89.58%, puzzle accuracy: 82.81%
+[progress] epoch: 34
+(train) epoch loss: 38.6755, fragment accuracy: 95.60%, puzzle accuracy: 92.23%
+(test) epoch loss: 8.4300, fragment accuracy: 89.92%, puzzle accuracy: 83.27%
+[progress] epoch: 35
+(train) epoch loss: 38.6245, fragment accuracy: 95.70%, puzzle accuracy: 92.31%
+(test) epoch loss: 8.4124, fragment accuracy: 90.10%, puzzle accuracy: 83.43%
+[progress] epoch: 36
+(train) epoch loss: 38.4937, fragment accuracy: 95.98%, puzzle accuracy: 92.82%
+(test) epoch loss: 8.4093, fragment accuracy: 90.09%, puzzle accuracy: 83.51%
+[progress] epoch: 37
+(train) epoch loss: 38.4373, fragment accuracy: 96.07%, puzzle accuracy: 92.96%
+(test) epoch loss: 8.4219, fragment accuracy: 90.03%, puzzle accuracy: 83.35%
+[progress] epoch: 38
+(train) epoch loss: 38.4126, fragment accuracy: 96.13%, puzzle accuracy: 93.13%
+(test) epoch loss: 8.4080, fragment accuracy: 90.19%, puzzle accuracy: 83.41%
+[progress] epoch: 39
+(train) epoch loss: 38.2961, fragment accuracy: 96.38%, puzzle accuracy: 93.51%
+(test) epoch loss: 8.3871, fragment accuracy: 90.42%, puzzle accuracy: 83.91%
+[progress] epoch: 40
+(train) epoch loss: 38.2330, fragment accuracy: 96.52%, puzzle accuracy: 93.74%
+(test) epoch loss: 8.3635, fragment accuracy: 90.52%, puzzle accuracy: 84.20%
+[progress] epoch: 41
+(train) epoch loss: 38.1656, fragment accuracy: 96.64%, puzzle accuracy: 93.94%
+(test) epoch loss: 8.4337, fragment accuracy: 89.91%, puzzle accuracy: 83.25%
+[progress] epoch: 42
+(train) epoch loss: 38.1340, fragment accuracy: 96.71%, puzzle accuracy: 94.07%
+(test) epoch loss: 8.3845, fragment accuracy: 90.47%, puzzle accuracy: 83.97%
+[progress] epoch: 43
+(train) epoch loss: 38.0761, fragment accuracy: 96.82%, puzzle accuracy: 94.30%
+(test) epoch loss: 8.3778, fragment accuracy: 90.40%, puzzle accuracy: 83.78%
+[progress] epoch: 44
+(train) epoch loss: 38.0253, fragment accuracy: 96.93%, puzzle accuracy: 94.46%
+(test) epoch loss: 8.3639, fragment accuracy: 90.60%, puzzle accuracy: 84.27%
+[progress] epoch: 45
+(train) epoch loss: 37.9832, fragment accuracy: 97.03%, puzzle accuracy: 94.66%
+(test) epoch loss: 8.3493, fragment accuracy: 90.73%, puzzle accuracy: 84.55%
+[progress] epoch: 46
+(train) epoch loss: 37.9673, fragment accuracy: 97.02%, puzzle accuracy: 94.57%
+(test) epoch loss: 8.3622, fragment accuracy: 90.55%, puzzle accuracy: 84.13%
+[progress] epoch: 47
+(train) epoch loss: 37.9695, fragment accuracy: 97.03%, puzzle accuracy: 94.65%
+(test) epoch loss: 8.3501, fragment accuracy: 90.80%, puzzle accuracy: 84.37%
+[progress] epoch: 48
+(train) epoch loss: 37.8531, fragment accuracy: 97.27%, puzzle accuracy: 95.04%
+(test) epoch loss: 8.3469, fragment accuracy: 90.72%, puzzle accuracy: 84.48%
+[progress] epoch: 49
+(train) epoch loss: 37.8171, fragment accuracy: 97.35%, puzzle accuracy: 95.18%
+(test) epoch loss: 8.3552, fragment accuracy: 90.61%, puzzle accuracy: 84.26%
+[progress] epoch: 50
+(train) epoch loss: 37.8307, fragment accuracy: 97.30%, puzzle accuracy: 95.11%
+(test) epoch loss: 8.3484, fragment accuracy: 90.72%, puzzle accuracy: 84.43%
+<experiment> 3x3 puzzle
+[progress] epoch: 1
+(train) epoch loss: 105.4953, fragment accuracy: 18.26%, puzzle accuracy: 0.01%
+(test) epoch loss: 21.0444, fragment accuracy: 24.68%, puzzle accuracy: 0.10%
+[progress] epoch: 2
+(train) epoch loss: 99.8778, fragment accuracy: 32.35%, puzzle accuracy: 1.03%
+(test) epoch loss: 20.0639, fragment accuracy: 35.74%, puzzle accuracy: 2.25%
+[progress] epoch: 3
+(train) epoch loss: 97.7786, fragment accuracy: 36.81%, puzzle accuracy: 2.42%
+(test) epoch loss: 19.8513, fragment accuracy: 38.06%, puzzle accuracy: 2.89%
+[progress] epoch: 4
+(train) epoch loss: 96.8705, fragment accuracy: 38.85%, puzzle accuracy: 3.05%
+(test) epoch loss: 19.7082, fragment accuracy: 39.42%, puzzle accuracy: 3.65%
+[progress] epoch: 5
+(train) epoch loss: 96.2837, fragment accuracy: 40.16%, puzzle accuracy: 3.51%
+(test) epoch loss: 19.6181, fragment accuracy: 40.39%, puzzle accuracy: 3.91%
+[progress] epoch: 6
+(train) epoch loss: 95.7999, fragment accuracy: 41.16%, puzzle accuracy: 4.01%
+(test) epoch loss: 19.5491, fragment accuracy: 41.18%, puzzle accuracy: 4.18%
+[progress] epoch: 7
+(train) epoch loss: 95.5355, fragment accuracy: 41.75%, puzzle accuracy: 4.16%
+(test) epoch loss: 19.5207, fragment accuracy: 41.49%, puzzle accuracy: 4.13%
+[progress] epoch: 8
+(train) epoch loss: 95.1710, fragment accuracy: 42.50%, puzzle accuracy: 4.45%
+(test) epoch loss: 19.5024, fragment accuracy: 41.60%, puzzle accuracy: 4.36%
+[progress] epoch: 9
+(train) epoch loss: 94.9377, fragment accuracy: 43.03%, puzzle accuracy: 4.83%
+(test) epoch loss: 19.4684, fragment accuracy: 41.97%, puzzle accuracy: 4.47%
+[progress] epoch: 10
+(train) epoch loss: 94.6908, fragment accuracy: 43.52%, puzzle accuracy: 5.02%
+(test) epoch loss: 19.4042, fragment accuracy: 42.49%, puzzle accuracy: 4.49%
+[progress] epoch: 11
+(train) epoch loss: 94.5596, fragment accuracy: 43.84%, puzzle accuracy: 4.91%
+(test) epoch loss: 19.4217, fragment accuracy: 42.49%, puzzle accuracy: 4.78%
+[progress] epoch: 12
+(train) epoch loss: 94.3272, fragment accuracy: 44.38%, puzzle accuracy: 5.47%
+(test) epoch loss: 19.3530, fragment accuracy: 43.17%, puzzle accuracy: 5.11%
+[progress] epoch: 13
+(train) epoch loss: 94.0785, fragment accuracy: 44.95%, puzzle accuracy: 5.64%
+(test) epoch loss: 19.3370, fragment accuracy: 43.35%, puzzle accuracy: 4.82%
+[progress] epoch: 14
+(train) epoch loss: 93.9492, fragment accuracy: 45.19%, puzzle accuracy: 5.71%
+(test) epoch loss: 19.2540, fragment accuracy: 44.25%, puzzle accuracy: 5.48%
+[progress] epoch: 15
+(train) epoch loss: 93.7719, fragment accuracy: 45.58%, puzzle accuracy: 6.08%
+(test) epoch loss: 19.2797, fragment accuracy: 43.98%, puzzle accuracy: 5.76%
+[progress] epoch: 16
+(train) epoch loss: 93.6173, fragment accuracy: 45.95%, puzzle accuracy: 6.21%
+(test) epoch loss: 19.2308, fragment accuracy: 44.52%, puzzle accuracy: 5.58%
+[progress] epoch: 17
+(train) epoch loss: 93.4985, fragment accuracy: 46.12%, puzzle accuracy: 6.16%
+(test) epoch loss: 19.2978, fragment accuracy: 43.67%, puzzle accuracy: 5.24%
+[progress] epoch: 18
+(train) epoch loss: 93.3841, fragment accuracy: 46.46%, puzzle accuracy: 6.40%
+(test) epoch loss: 19.2586, fragment accuracy: 44.16%, puzzle accuracy: 5.35%
+[progress] epoch: 19
+(train) epoch loss: 93.2101, fragment accuracy: 46.87%, puzzle accuracy: 6.62%
+(test) epoch loss: 19.2171, fragment accuracy: 44.56%, puzzle accuracy: 5.52%
+[progress] epoch: 20
+(train) epoch loss: 93.1113, fragment accuracy: 47.03%, puzzle accuracy: 6.79%
+(test) epoch loss: 19.2032, fragment accuracy: 44.78%, puzzle accuracy: 5.67%
+[progress] epoch: 21
+(train) epoch loss: 92.9627, fragment accuracy: 47.33%, puzzle accuracy: 6.92%
+(test) epoch loss: 19.1620, fragment accuracy: 45.08%, puzzle accuracy: 5.88%
+[progress] epoch: 22
+(train) epoch loss: 92.8422, fragment accuracy: 47.65%, puzzle accuracy: 7.21%
+(test) epoch loss: 19.1761, fragment accuracy: 45.01%, puzzle accuracy: 5.87%
+[progress] epoch: 23
+(train) epoch loss: 92.7169, fragment accuracy: 47.87%, puzzle accuracy: 7.15%
+(test) epoch loss: 19.1591, fragment accuracy: 45.21%, puzzle accuracy: 5.87%
+[progress] epoch: 24
+(train) epoch loss: 92.6058, fragment accuracy: 48.14%, puzzle accuracy: 7.40%
+(test) epoch loss: 19.1271, fragment accuracy: 45.44%, puzzle accuracy: 6.10%
+[progress] epoch: 25
+(train) epoch loss: 92.4814, fragment accuracy: 48.41%, puzzle accuracy: 7.50%
+(test) epoch loss: 19.1006, fragment accuracy: 45.89%, puzzle accuracy: 6.37%
+[progress] epoch: 26
+(train) epoch loss: 92.3515, fragment accuracy: 48.69%, puzzle accuracy: 7.77%
+(test) epoch loss: 19.0981, fragment accuracy: 45.83%, puzzle accuracy: 6.38%
+[progress] epoch: 27
+(train) epoch loss: 92.2673, fragment accuracy: 48.87%, puzzle accuracy: 7.80%
+(test) epoch loss: 19.1093, fragment accuracy: 45.75%, puzzle accuracy: 6.03%
+[progress] epoch: 28
+(train) epoch loss: 92.1905, fragment accuracy: 49.05%, puzzle accuracy: 7.86%
+(test) epoch loss: 19.0563, fragment accuracy: 46.26%, puzzle accuracy: 6.73%
+[progress] epoch: 29
+(train) epoch loss: 92.0673, fragment accuracy: 49.34%, puzzle accuracy: 8.00%
+(test) epoch loss: 19.0696, fragment accuracy: 46.15%, puzzle accuracy: 5.85%
+[progress] epoch: 30
+(train) epoch loss: 91.9721, fragment accuracy: 49.49%, puzzle accuracy: 8.23%
+(test) epoch loss: 19.0350, fragment accuracy: 46.53%, puzzle accuracy: 6.79%
+[progress] epoch: 31
+(train) epoch loss: 91.8513, fragment accuracy: 49.79%, puzzle accuracy: 8.34%
+(test) epoch loss: 19.0475, fragment accuracy: 46.34%, puzzle accuracy: 6.54%
+[progress] epoch: 32
+(train) epoch loss: 91.8344, fragment accuracy: 49.82%, puzzle accuracy: 8.40%
+(test) epoch loss: 19.0340, fragment accuracy: 46.56%, puzzle accuracy: 6.49%
+[progress] epoch: 33
+(train) epoch loss: 91.7262, fragment accuracy: 50.01%, puzzle accuracy: 8.54%
+(test) epoch loss: 19.0312, fragment accuracy: 46.51%, puzzle accuracy: 6.39%
+[progress] epoch: 34
+(train) epoch loss: 91.7112, fragment accuracy: 50.04%, puzzle accuracy: 8.42%
+(test) epoch loss: 19.0428, fragment accuracy: 46.32%, puzzle accuracy: 6.67%
+[progress] epoch: 35
+(train) epoch loss: 91.5246, fragment accuracy: 50.47%, puzzle accuracy: 8.86%
+(test) epoch loss: 19.0194, fragment accuracy: 46.67%, puzzle accuracy: 6.97%
+[progress] epoch: 36
+(train) epoch loss: 91.3550, fragment accuracy: 50.89%, puzzle accuracy: 9.05%
+(test) epoch loss: 18.9990, fragment accuracy: 46.80%, puzzle accuracy: 6.99%
+[progress] epoch: 37
+(train) epoch loss: 91.3353, fragment accuracy: 50.88%, puzzle accuracy: 9.12%
+(test) epoch loss: 19.0262, fragment accuracy: 46.50%, puzzle accuracy: 6.49%
+[progress] epoch: 38
+(train) epoch loss: 91.2792, fragment accuracy: 51.02%, puzzle accuracy: 9.23%
+(test) epoch loss: 18.9631, fragment accuracy: 47.33%, puzzle accuracy: 6.93%
+[progress] epoch: 39
+(train) epoch loss: 91.1773, fragment accuracy: 51.24%, puzzle accuracy: 9.23%
+(test) epoch loss: 18.9820, fragment accuracy: 47.04%, puzzle accuracy: 6.81%
+[progress] epoch: 40
+(train) epoch loss: 91.1839, fragment accuracy: 51.18%, puzzle accuracy: 9.25%
+(test) epoch loss: 18.9426, fragment accuracy: 47.47%, puzzle accuracy: 7.66%
+[progress] epoch: 41
+(train) epoch loss: 90.9717, fragment accuracy: 51.69%, puzzle accuracy: 9.72%
+(test) epoch loss: 18.9798, fragment accuracy: 47.00%, puzzle accuracy: 6.89%
+[progress] epoch: 42
+(train) epoch loss: 90.9506, fragment accuracy: 51.68%, puzzle accuracy: 9.66%
+(test) epoch loss: 18.9674, fragment accuracy: 47.10%, puzzle accuracy: 6.71%
+[progress] epoch: 43
+(train) epoch loss: 90.8745, fragment accuracy: 51.85%, puzzle accuracy: 9.65%
+(test) epoch loss: 18.9912, fragment accuracy: 46.99%, puzzle accuracy: 7.22%
+[progress] epoch: 44
+(train) epoch loss: 90.7933, fragment accuracy: 52.05%, puzzle accuracy: 9.89%
+(test) epoch loss: 18.9557, fragment accuracy: 47.25%, puzzle accuracy: 7.01%
+[progress] epoch: 45
+(train) epoch loss: 90.7195, fragment accuracy: 52.27%, puzzle accuracy: 10.04%
+(test) epoch loss: 18.9892, fragment accuracy: 46.89%, puzzle accuracy: 7.05%
+[progress] epoch: 46
+(train) epoch loss: 90.7865, fragment accuracy: 52.09%, puzzle accuracy: 9.79%
+(test) epoch loss: 18.9634, fragment accuracy: 47.27%, puzzle accuracy: 7.04%
+[progress] epoch: 47
+(train) epoch loss: 90.5536, fragment accuracy: 52.57%, puzzle accuracy: 10.10%
+(test) epoch loss: 18.9227, fragment accuracy: 47.64%, puzzle accuracy: 7.48%
+[progress] epoch: 48
+(train) epoch loss: 90.4590, fragment accuracy: 52.78%, puzzle accuracy: 10.40%
+(test) epoch loss: 18.9243, fragment accuracy: 47.53%, puzzle accuracy: 7.35%
+[progress] epoch: 49
+(train) epoch loss: 90.4503, fragment accuracy: 52.81%, puzzle accuracy: 10.29%
+(test) epoch loss: 18.9720, fragment accuracy: 47.14%, puzzle accuracy: 7.22%
+[progress] epoch: 50
+(train) epoch loss: 90.3477, fragment accuracy: 53.02%, puzzle accuracy: 10.70%
+(test) epoch loss: 18.9462, fragment accuracy: 47.37%, puzzle accuracy: 7.12%
+[progress] epoch: 51
+(train) epoch loss: 90.4182, fragment accuracy: 52.84%, puzzle accuracy: 10.15%
+(test) epoch loss: 18.9025, fragment accuracy: 47.84%, puzzle accuracy: 7.39%
+[progress] epoch: 52
+(train) epoch loss: 90.2185, fragment accuracy: 53.34%, puzzle accuracy: 10.82%
+(test) epoch loss: 18.9396, fragment accuracy: 47.49%, puzzle accuracy: 7.05%
+[progress] epoch: 53
+(train) epoch loss: 90.2298, fragment accuracy: 53.22%, puzzle accuracy: 10.63%
+(test) epoch loss: 18.9050, fragment accuracy: 47.78%, puzzle accuracy: 7.94%
+[progress] epoch: 54
+(train) epoch loss: 90.1010, fragment accuracy: 53.53%, puzzle accuracy: 11.07%
+(test) epoch loss: 18.8633, fragment accuracy: 48.23%, puzzle accuracy: 7.48%
+[progress] epoch: 55
+(train) epoch loss: 90.0853, fragment accuracy: 53.60%, puzzle accuracy: 10.88%
+(test) epoch loss: 18.8956, fragment accuracy: 47.80%, puzzle accuracy: 7.36%
+[progress] epoch: 56
+(train) epoch loss: 90.0359, fragment accuracy: 53.68%, puzzle accuracy: 11.01%
+(test) epoch loss: 18.8726, fragment accuracy: 48.18%, puzzle accuracy: 7.46%
+[progress] epoch: 57
+(train) epoch loss: 89.9384, fragment accuracy: 53.89%, puzzle accuracy: 11.24%
+(test) epoch loss: 18.8849, fragment accuracy: 48.08%, puzzle accuracy: 7.63%
+[progress] epoch: 58
+(train) epoch loss: 89.8856, fragment accuracy: 54.04%, puzzle accuracy: 11.23%
+(test) epoch loss: 18.8718, fragment accuracy: 48.26%, puzzle accuracy: 7.56%
+[progress] epoch: 59
+(train) epoch loss: 89.7604, fragment accuracy: 54.30%, puzzle accuracy: 11.48%
+(test) epoch loss: 18.9300, fragment accuracy: 47.52%, puzzle accuracy: 6.98%
+[progress] epoch: 60
+(train) epoch loss: 89.7212, fragment accuracy: 54.37%, puzzle accuracy: 11.50%
+(test) epoch loss: 18.9685, fragment accuracy: 47.18%, puzzle accuracy: 7.20%
+[progress] epoch: 61
+(train) epoch loss: 89.6789, fragment accuracy: 54.40%, puzzle accuracy: 11.54%
+(test) epoch loss: 18.8760, fragment accuracy: 48.05%, puzzle accuracy: 7.34%
+[progress] epoch: 62
+(train) epoch loss: 89.5918, fragment accuracy: 54.66%, puzzle accuracy: 11.67%
+(test) epoch loss: 18.8508, fragment accuracy: 48.39%, puzzle accuracy: 7.87%
+[progress] epoch: 63
+(train) epoch loss: 89.4781, fragment accuracy: 54.90%, puzzle accuracy: 12.00%
+(test) epoch loss: 18.9353, fragment accuracy: 47.61%, puzzle accuracy: 7.22%
+[progress] epoch: 64
+(train) epoch loss: 89.5550, fragment accuracy: 54.75%, puzzle accuracy: 11.76%
+(test) epoch loss: 18.8903, fragment accuracy: 47.91%, puzzle accuracy: 7.58%
+[progress] epoch: 65
+(train) epoch loss: 89.3562, fragment accuracy: 55.18%, puzzle accuracy: 12.20%
+(test) epoch loss: 18.8360, fragment accuracy: 48.58%, puzzle accuracy: 7.74%
+[progress] epoch: 66
+(train) epoch loss: 89.3903, fragment accuracy: 55.13%, puzzle accuracy: 12.04%
+(test) epoch loss: 18.8642, fragment accuracy: 48.14%, puzzle accuracy: 7.75%
+[progress] epoch: 67
+(train) epoch loss: 89.2904, fragment accuracy: 55.31%, puzzle accuracy: 12.20%
+(test) epoch loss: 18.9054, fragment accuracy: 47.85%, puzzle accuracy: 7.58%
+[progress] epoch: 68
+(train) epoch loss: 89.1584, fragment accuracy: 55.61%, puzzle accuracy: 12.53%
+(test) epoch loss: 18.8163, fragment accuracy: 48.71%, puzzle accuracy: 8.12%
+[progress] epoch: 69
+(train) epoch loss: 89.1788, fragment accuracy: 55.57%, puzzle accuracy: 12.47%
+(test) epoch loss: 18.8408, fragment accuracy: 48.37%, puzzle accuracy: 7.59%
+[progress] epoch: 70
+(train) epoch loss: 89.0550, fragment accuracy: 55.80%, puzzle accuracy: 12.65%
+(test) epoch loss: 18.8587, fragment accuracy: 48.25%, puzzle accuracy: 7.78%
+[progress] epoch: 71
+(train) epoch loss: 89.0899, fragment accuracy: 55.73%, puzzle accuracy: 12.48%
+(test) epoch loss: 18.8810, fragment accuracy: 47.98%, puzzle accuracy: 7.25%
+[progress] epoch: 72
+(train) epoch loss: 89.0787, fragment accuracy: 55.76%, puzzle accuracy: 12.54%
+(test) epoch loss: 18.8282, fragment accuracy: 48.52%, puzzle accuracy: 7.79%
+[progress] epoch: 73
+(train) epoch loss: 88.9132, fragment accuracy: 56.13%, puzzle accuracy: 12.88%
+(test) epoch loss: 18.8330, fragment accuracy: 48.55%, puzzle accuracy: 7.44%
+[progress] epoch: 74
+(train) epoch loss: 88.8259, fragment accuracy: 56.38%, puzzle accuracy: 13.07%
+(test) epoch loss: 18.8261, fragment accuracy: 48.65%, puzzle accuracy: 8.06%
+[progress] epoch: 75
+(train) epoch loss: 88.8124, fragment accuracy: 56.33%, puzzle accuracy: 13.03%
+(test) epoch loss: 18.8364, fragment accuracy: 48.53%, puzzle accuracy: 7.81%
+[progress] epoch: 76
+(train) epoch loss: 88.7780, fragment accuracy: 56.40%, puzzle accuracy: 13.05%
+(test) epoch loss: 18.8570, fragment accuracy: 48.26%, puzzle accuracy: 7.65%
+[progress] epoch: 77
+(train) epoch loss: 88.7279, fragment accuracy: 56.51%, puzzle accuracy: 13.15%
+(test) epoch loss: 19.0193, fragment accuracy: 46.66%, puzzle accuracy: 6.61%
+[progress] epoch: 78
+(train) epoch loss: 88.7343, fragment accuracy: 56.49%, puzzle accuracy: 13.08%
+(test) epoch loss: 18.9012, fragment accuracy: 48.04%, puzzle accuracy: 7.08%
+[progress] epoch: 79
+(train) epoch loss: 88.6732, fragment accuracy: 56.60%, puzzle accuracy: 13.18%
+(test) epoch loss: 18.7910, fragment accuracy: 49.10%, puzzle accuracy: 8.16%
+[progress] epoch: 80
+(train) epoch loss: 88.6982, fragment accuracy: 56.60%, puzzle accuracy: 13.24%
+(test) epoch loss: 18.8440, fragment accuracy: 48.53%, puzzle accuracy: 7.63%
+[progress] epoch: 81
+(train) epoch loss: 88.6262, fragment accuracy: 56.71%, puzzle accuracy: 13.28%
+(test) epoch loss: 18.8256, fragment accuracy: 48.71%, puzzle accuracy: 7.76%
+[progress] epoch: 82
+(train) epoch loss: 88.4964, fragment accuracy: 57.02%, puzzle accuracy: 13.45%
+(test) epoch loss: 18.8003, fragment accuracy: 48.99%, puzzle accuracy: 8.08%
+[progress] epoch: 83
+(train) epoch loss: 88.3979, fragment accuracy: 57.19%, puzzle accuracy: 13.72%
+(test) epoch loss: 18.7922, fragment accuracy: 48.98%, puzzle accuracy: 8.26%
+[progress] epoch: 84
+(train) epoch loss: 88.3857, fragment accuracy: 57.25%, puzzle accuracy: 13.54%
+(test) epoch loss: 18.8374, fragment accuracy: 48.43%, puzzle accuracy: 7.91%
+[progress] epoch: 85
+(train) epoch loss: 88.2920, fragment accuracy: 57.45%, puzzle accuracy: 13.95%
+(test) epoch loss: 18.7959, fragment accuracy: 49.01%, puzzle accuracy: 8.26%
+[progress] epoch: 86
+(train) epoch loss: 88.3162, fragment accuracy: 57.37%, puzzle accuracy: 14.18%
+(test) epoch loss: 18.8544, fragment accuracy: 48.27%, puzzle accuracy: 7.31%
+[progress] epoch: 87
+(train) epoch loss: 88.3065, fragment accuracy: 57.42%, puzzle accuracy: 13.97%
+(test) epoch loss: 18.7868, fragment accuracy: 48.95%, puzzle accuracy: 8.35%
+[progress] epoch: 88
+(train) epoch loss: 88.2972, fragment accuracy: 57.44%, puzzle accuracy: 13.86%
+(test) epoch loss: 18.8088, fragment accuracy: 48.72%, puzzle accuracy: 8.09%
+[progress] epoch: 89
+(train) epoch loss: 88.2800, fragment accuracy: 57.48%, puzzle accuracy: 13.87%
+(test) epoch loss: 18.8297, fragment accuracy: 48.43%, puzzle accuracy: 8.15%
+[progress] epoch: 90
+(train) epoch loss: 88.0952, fragment accuracy: 57.88%, puzzle accuracy: 14.28%
+(test) epoch loss: 18.7998, fragment accuracy: 48.90%, puzzle accuracy: 8.01%
+[progress] epoch: 91
+(train) epoch loss: 88.0342, fragment accuracy: 57.99%, puzzle accuracy: 14.38%
+(test) epoch loss: 18.8176, fragment accuracy: 48.66%, puzzle accuracy: 8.00%
+[progress] epoch: 92
+(train) epoch loss: 88.0248, fragment accuracy: 58.01%, puzzle accuracy: 14.46%
+(test) epoch loss: 18.8044, fragment accuracy: 48.84%, puzzle accuracy: 8.05%
+[progress] epoch: 93
+(train) epoch loss: 87.8966, fragment accuracy: 58.31%, puzzle accuracy: 14.72%
+(test) epoch loss: 18.7931, fragment accuracy: 49.06%, puzzle accuracy: 8.01%
+[progress] epoch: 94
+(train) epoch loss: 87.9434, fragment accuracy: 58.20%, puzzle accuracy: 14.46%
+(test) epoch loss: 18.8023, fragment accuracy: 48.85%, puzzle accuracy: 8.04%
+[progress] epoch: 95
+(train) epoch loss: 87.9276, fragment accuracy: 58.21%, puzzle accuracy: 14.57%
+(test) epoch loss: 18.7763, fragment accuracy: 49.14%, puzzle accuracy: 8.48%
+[progress] epoch: 96
+(train) epoch loss: 87.8570, fragment accuracy: 58.36%, puzzle accuracy: 14.95%
+(test) epoch loss: 18.7772, fragment accuracy: 49.14%, puzzle accuracy: 8.43%
+[progress] epoch: 97
+(train) epoch loss: 87.7752, fragment accuracy: 58.55%, puzzle accuracy: 14.84%
+(test) epoch loss: 18.7692, fragment accuracy: 49.19%, puzzle accuracy: 8.37%
+[progress] epoch: 98
+(train) epoch loss: 87.7768, fragment accuracy: 58.57%, puzzle accuracy: 14.96%
+(test) epoch loss: 18.7927, fragment accuracy: 48.90%, puzzle accuracy: 7.92%
+[progress] epoch: 99
+(train) epoch loss: 87.7094, fragment accuracy: 58.68%, puzzle accuracy: 15.18%
+(test) epoch loss: 18.7763, fragment accuracy: 49.11%, puzzle accuracy: 8.59%
+[progress] epoch: 100
+(train) epoch loss: 87.6979, fragment accuracy: 58.75%, puzzle accuracy: 14.99%
+(test) epoch loss: 18.7751, fragment accuracy: 49.20%, puzzle accuracy: 8.44%

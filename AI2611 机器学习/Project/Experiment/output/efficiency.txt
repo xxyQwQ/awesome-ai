@@ -1,0 +1,5 @@
+Kernel: Linear, Train: 15.78, Test: 2.27
+Kernel: Polynomial, Train: 19.97, Test: 3.06
+Kernel: Gaussian, Train: 167.28, Test: 134.87
+Kernel: Sigmoid, Train: 12.57, Test: 2.41
+Kernel: Conbined, Train: 160.72, Test: 150.13

@@ -1,0 +1,18 @@
+Dataset: MNIST
+Kernel: Linear, Train: 96.94%, Test: 90.70%
+Kernel: Polynomial, Train: 100.00%, Test: 94.00%
+Kernel: Gaussian, Train: 99.68%, Test: 94.80%
+Kernel: Sigmoid, Train: 95.42%, Test: 92.10%
+Kernel: Conbined, Train: 100.00%, Test: 94.10%
+Dataset: CIFAR10
+Kernel: Linear, Train: 76.14%, Test: 33.60%
+Kernel: Polynomial, Train: 99.86%, Test: 37.70%
+Kernel: Gaussian, Train: 99.14%, Test: 34.10%
+Kernel: Sigmoid, Train: 7.96%, Test: 7.40%
+Kernel: Conbined, Train: 99.86%, Test: 37.80%
+Dataset: CIFAR10-HOG
+Kernel: Linear, Train: 77.58%, Test: 39.50%
+Kernel: Polynomial, Train: 100.00%, Test: 44.10%
+Kernel: Gaussian, Train: 94.54%, Test: 47.00%
+Kernel: Sigmoid, Train: 59.82%, Test: 44.70%
+Kernel: Conbined, Train: 100.00%, Test: 43.50%
