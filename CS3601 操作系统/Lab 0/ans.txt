@@ -1,0 +1,6 @@
+2022
+KISS: Keep It Simple, Stupid.
+1 1 6 11 21 36 61 101
+4 4
+helloworlc
+98
