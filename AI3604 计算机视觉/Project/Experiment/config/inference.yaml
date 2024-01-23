@@ -1,0 +1,17 @@
+defaults:
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+parameter:
+    model_path: ../backup/gen_100k.pth
+    reference_path: ./assets/reference
+    checkpoint_path: ./checkpoint/inference_${now:%Y%m%d%H%M%S}
+    device: gpu
+    reference_count: 4
+    target_text: 哪里贵了？这么多年都是这个价格好吧，不要睁着眼睛乱说，国货品牌很难的，我跟花西子跟了多少年，它怎么起来的我是最知道的一个，它就差把它们家掏给我了，差点姓李了，有的时候也找找自己的原因，这么多年了工资涨没涨，有没有认真工作。
+
+hydra:
+    run:
+        dir: ${parameter.checkpoint_path}
+    sweep:
+        dir: ${parameter.checkpoint_path}

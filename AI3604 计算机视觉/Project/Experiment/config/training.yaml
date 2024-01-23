@@ -1,0 +1,33 @@
+defaults:
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+parameter:
+    dataset_path: ../dataset
+    checkpoint_path: ./checkpoint/training_${now:%Y%m%d%H%M%S}
+    device: gpu
+    batch_size: 32
+    num_workers: 16
+    reference_count: 4
+    generator:
+        learning_rate: 1e-4
+        loss_function:
+            weight_adversarial: 1
+            weight_classification: 1
+            weight_structure: 0 # 0.5
+            weight_style: 0.1
+            weight_reconstruction: 20
+    discriminator:
+        learning_rate: 1e-4
+        loss_function:
+            weight_adversarial: 1
+            weight_classification: 1
+    num_iterations: 100000
+    report_interval: 100
+    save_interval: 20000
+
+hydra:
+    run:
+        dir: ${parameter.checkpoint_path}
+    sweep:
+        dir: ${parameter.checkpoint_path}

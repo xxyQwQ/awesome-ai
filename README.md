@@ -1,6 +1,6 @@
 <h1 align="center">
-awesome-AI
+    Awesome-AI: Course Archive for AI Major in SJTU
 </h1>
 <p align="center">
-Personal repository for courses in artificial intelligence major of Shanghai Jiao Tong University.
+    上海交通大学人工智能专业本科课程作业归档
 </p>
