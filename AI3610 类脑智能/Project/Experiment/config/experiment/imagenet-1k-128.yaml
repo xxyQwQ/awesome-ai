@@ -1,0 +1,23 @@
+name: imagenet-1k-128
+path: ./dataset/imagenet-1k-128
+
+time_steps: 4
+in_channels: 3
+image_size: 128
+num_classes: 1000
+
+num_layers: 4
+num_heads: 8
+num_channels: 512
+
+num_epochs: 10
+save_interval: 1
+batch_size: 32
+num_workers: 0
+
+learning_rate: 1e-3
+lower_bound: 1
+weight_decay: 1e-2
+cycle_total: 10
+cycle_warmup: 10
+cycle_decay: 1

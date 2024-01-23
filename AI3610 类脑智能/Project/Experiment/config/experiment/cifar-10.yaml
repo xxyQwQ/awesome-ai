@@ -1,0 +1,23 @@
+name: cifar-10
+path: ./dataset/cifar-10
+
+time_steps: 4
+in_channels: 3
+image_size: 32
+num_classes: 10
+
+num_layers: 4
+num_heads: 8
+num_channels: 512
+
+num_epochs: 300
+save_interval: 60
+batch_size: 32
+num_workers: 0
+
+learning_rate: 5e-4
+lower_bound: 1e-2
+weight_decay: 1e-2
+cycle_total: 50
+cycle_warmup: 10
+cycle_decay: 0.8

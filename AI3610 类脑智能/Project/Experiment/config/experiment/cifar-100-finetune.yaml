@@ -1,0 +1,25 @@
+name: cifar-100-finetune
+path: ./dataset/cifar-100
+model: ./checkpoint/imagenet-1k-128.pth
+
+time_steps: 4
+in_channels: 3
+image_size: 128
+old_classes: 1000
+new_classes: 100
+
+num_layers: 4
+num_heads: 8
+num_channels: 512
+
+num_epochs: 100
+save_interval: 50
+batch_size: 32
+num_workers: 0
+
+learning_rate: 1e-4
+lower_bound: 1
+weight_decay: 1e-2
+cycle_total: 100
+cycle_warmup: 100
+cycle_decay: 1

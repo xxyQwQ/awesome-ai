@@ -1,0 +1,14 @@
+defaults:
+    - _self_
+    - experiment: cifar-10-finetune
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+checkpoint: ./checkpoint/finetune_${now:%Y%m%d%H%M%S}
+device: gpu
+
+hydra:
+    run:
+        dir: ${checkpoint}
+    sweep:
+        dir: ${checkpoint}
