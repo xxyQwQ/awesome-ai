@@ -1,0 +1,65 @@
+{
+    "acts": [
+        "inform",
+        "deny"
+    ],
+    "slots": {
+        "poi名称": "./lexicon/poi_name.txt",
+        "poi修饰": "./lexicon/poi_name.txt",
+        "poi目标": "./lexicon/poi_name.txt",
+        "起点名称": "./lexicon/poi_name.txt",
+        "起点修饰": "./lexicon/poi_name.txt",
+        "起点目标": "./lexicon/poi_name.txt",
+        "终点名称": "./lexicon/poi_name.txt",
+        "终点修饰": "./lexicon/poi_name.txt",
+        "终点目标": "./lexicon/poi_name.txt",
+        "途经点名称": "./lexicon/poi_name.txt",
+        "请求类型": [
+            "附近",
+            "定位",
+            "近郊",
+            "旁边",
+            "周边",
+            "就近",
+            "最近"
+        ],
+        "出行方式": [
+            "公交车"
+        ],
+        "路线偏好": [
+            "最近",
+            "高速优先",
+            "走国道",
+            "少走高速",
+            "不走高速",
+            "走高速",
+            "上高速",
+            "高速公路",
+            "最快",
+            "躲避拥堵"
+        ],
+        "对象": [
+            "语音",
+            "高德地图",
+            "路线",
+            "位置",
+            "途经点",
+            "全程路线",
+            "简易导航",
+            "目的地",
+            "地图",
+            "定位",
+            "路况",
+            "导航"
+        ],
+        "操作": "./lexicon/operation_verb.txt",
+        "序列号": "./lexicon/ordinal_number.txt",
+        "页码": [
+            "上一页",
+            "下一页"
+        ],
+        "value": [
+            "dontcare"
+        ]
+    }
+}
