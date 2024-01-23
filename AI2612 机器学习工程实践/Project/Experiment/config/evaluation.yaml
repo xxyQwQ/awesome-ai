@@ -1,0 +1,19 @@
+defaults:
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+parameter:
+    model_path: /home/xuexiangyuan/metaswap/checkpoint/training_20231130123619/iteration_500000/generator.pth
+    dataset_path: /home/xuexiangyuan/data/face-eval
+    checkpoint_path: ./checkpoint/evaluation_${now:%Y%m%d%H%M%S}
+    device: gpu
+    perform_inference: True
+    evaluate_identity: True
+    evaluate_posture: True
+    temporary_path: none
+
+hydra:
+    run:
+        dir: ${parameter.checkpoint_path}
+    sweep:
+        dir: ${parameter.checkpoint_path}

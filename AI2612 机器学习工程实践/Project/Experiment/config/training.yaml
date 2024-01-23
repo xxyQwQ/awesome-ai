@@ -1,0 +1,27 @@
+defaults:
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+parameter:
+    dataset_path: /home/xuexiangyuan/data/face-swap
+    checkpoint_path: ./checkpoint/training_${now:%Y%m%d%H%M%S}
+    device: gpu
+    batch_size: 16
+    num_workers: 16
+    learning_rate: 4e-4
+    loss_function:
+        weight_adversarial: 1
+        weight_attribute: 5
+        weight_identity: 20
+        weight_reconstruction: 5
+    num_iterations: 500000
+    report_interval: 100
+    save_interval: 10000
+    finetune: False
+    model_path: none
+
+hydra:
+    run:
+        dir: ${parameter.checkpoint_path}
+    sweep:
+        dir: ${parameter.checkpoint_path}

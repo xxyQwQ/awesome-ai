@@ -1,0 +1,5 @@
+model: checkpoint/training_20240111154026/iteration_1000/generator.pth
+image: ./appendix/image
+result: ./appendix/result
+device: cuda
+mean identity cosine distance: 0.166
