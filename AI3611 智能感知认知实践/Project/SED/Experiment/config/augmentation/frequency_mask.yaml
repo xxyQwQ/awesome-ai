@@ -1,0 +1,49 @@
+dataset:
+    dev:
+        feature: ./dataset/dev/feature.csv
+        label: ./dataset/dev/label.csv
+    eval:
+        feature: ./dataset/eval/feature.csv
+        label: ./dataset/eval/label.csv
+    reference: ./dataset/metadata/class_label_indices.txt
+    stratified: True
+    augmentation:
+        gaussian_noise: False
+        time_shift: False
+        time_mask: False
+        frequency_shift: False
+        frequency_mask: True
+
+model:
+    name: CRNN
+    argument:
+        num_blocks: 5
+        num_layers: 1
+        hidden_dims: 128
+
+optimizer:
+    name: AdamW
+    argument:
+        lr: 0.001
+
+scheduler:
+    name: ReduceLROnPlateau
+    argument:
+        factor: 0.2
+        patience: 3
+
+training:
+    save_path: ./checkpoint/augmentation/frequency_mask
+    num_epochs: 100
+    early_stop: 10
+    batch_size: 64
+    num_workers: 0
+
+evaluation:
+    time_ratio: 0.02
+    window_size: 7
+    binary_threshold: 0.5
+    prediction: prediction.csv
+    tagging: tagging.csv
+    event: event.csv
+    segment: segment.csv

@@ -1,0 +1,15 @@
+defaults:
+    - _self_
+    - parameter: default
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+checkpoint: ./checkpoint/${now:%Y%m%d%H%M%S}
+dataset: ./dataset
+device: gpu
+
+hydra:
+    run:
+        dir: ${checkpoint}
+    sweep:
+        dir: ${checkpoint}

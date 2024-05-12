@@ -1,0 +1,22 @@
+defaults:
+    - _self_
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+checkpoint: ./checkpoint/sample
+dataset: ./dataset/gigaspeech
+device: gpu
+seed: 0
+
+model: rnn
+num_tokens: none
+num_words: 1000
+log_interval: 100
+temperature: 1.0
+
+hydra:
+    output_subdir: null
+    run:
+        dir: .
+    sweep:
+        dir: .

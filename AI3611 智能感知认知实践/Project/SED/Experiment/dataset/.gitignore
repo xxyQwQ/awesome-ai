@@ -1,0 +1,4 @@
+*
+!.gitignore
+!collect.py
+!extract.py

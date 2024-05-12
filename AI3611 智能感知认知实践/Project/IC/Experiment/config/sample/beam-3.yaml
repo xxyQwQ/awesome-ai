@@ -1,0 +1,24 @@
+dataset_path: ./dataset/flickr8k
+vocabulary_path: ./dataset/vocabulary.pkl
+checkpoint_path: ./checkpoint/sample/beam-3
+
+model:
+    name: Captioner
+    feature_size: 14
+    embedding_dims: 384
+    encoder_dims: 2048
+    decoder_dims: 256
+    hidden_dims: 256
+    dropout_rate: 0.5
+    sample_method: beam
+    beam_size: 3
+
+optimizer:
+    name: RMSprop
+    learning_rate: 0.001
+
+training:
+    num_epochs: 30
+    batch_size: 128
+    num_workers: 4
+    sample_schedule: null
