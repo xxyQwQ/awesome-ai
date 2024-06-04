@@ -1,0 +1,14 @@
+__pycache__/
+data/
+reference
+.vscode
+.tmp
+*.pth
+checkpoint
+.key
+flagged
+*.log
+*.npy
+note.txt
+playground.ipynb
+readme_old.md
