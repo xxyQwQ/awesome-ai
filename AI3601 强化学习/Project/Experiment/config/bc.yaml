@@ -1,0 +1,31 @@
+defaults:
+    - _self_
+    - override hydra/hydra_logging: none
+    - override hydra/job_logging: none
+
+checkpoint: ./checkpoint/bc-${setting.task_name}-${setting.dataset_name}/seed-${seed}
+device: gpu
+seed: 0
+
+setting:
+    task_name: walk
+    dataset_name: medium
+    state_dims: 24
+    action_dims: 6
+
+parameter:
+    num_layers: 3
+    hidden_dims: 256
+    policy_lr: 1e-3
+
+strategy:
+    num_epochs: 1000
+    batch_size: 256
+    eval_interval: 10
+    sample_episodes: 5
+
+hydra:
+    run:
+        dir: ${checkpoint}
+    sweep:
+        dir: ${checkpoint}
